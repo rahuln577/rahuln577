@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**rahuln577/rahuln577** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 🎉 Hey there, I'm Rahul Vasudev! 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a code-wrangler 🤠 and caffeine-powered dev ☕.
+
+<html>
+  <body>
+    <p>Languages: C++, Javascript, Python</p>
+    <p>Tools: ReactJS, MongoDB, ExpressJS</p>
+    <p>Currently Working on DSA</p>
+  </body>
+</html>
