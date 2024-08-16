@@ -1,4 +1,5 @@
-[![MasterHead](https://drive.google.com/file/d/18IVbzsp7NBNT5olyrZnJ-ESZ8eytp8Eb/view?usp=share_link)]
+
+
 <h1 align="center">Hi 👋, I'm Rahul Vasudev</h1>
 <h3 align="center">A passionate full stack enthusiast</h3>
 
