@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **rahulrahuln2001@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1E_MgFZAi40WlL8lrqOfKJ3mypjU-NHhR/view?pli=1](https://drive.google.com/file/d/1E_MgFZAi40WlL8lrqOfKJ3mypjU-NHhR/view?pli=1)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1E_MgFZAi40WlL8lrqOfKJ3mypjU-NHhR/view?pli=](https://drive.google.com/file/d/1E_MgFZAi40WlL8lrqOfKJ3mypjU-NHhR/view?pli=1)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
