@@ -1,32 +1,52 @@
+# Hi there, I'm Rahul Vasudev 👋
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahuln-embed/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/rahulrahuln2001/)
 
-<h1 align="center">Hi 👋, I'm Rahul Vasudev</h1>
-<h3 align="center">A passionate full stack enthusiast</h3>
+**Associate Software Engineer @ HARMAN International (Cockpit Core)**  
+*Embedded Systems Engineer specializing in C++, Hardware Abstraction Layers (HAL), Linux/Android Internals, and High-Performance Automotive Middleware.*
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahuln577" alt="rahuln577" /></a> </p>
+---
 
-- 🌱 I’m currently learning **PostgreSQL, Docker**
+### 🚀 About Me
 
-- 👨‍💻 All of my projects are available at [https://rahuln.netlify.app](https://rahuln.netlify.app)
+- 🏎️ **Automotive Systems:** Developing C++ Hardware Abstraction Layers (HAL) and core cockpit modules deployed in production vehicles for **Ferrari**, **John Deere**, and **Maruti Suzuki**.
+- 🛠️ **System Mechanics:** Deep focus on thermal management logic, regional JSON configuration modules (AM/FM/DAB), IPC mechanisms, and CMake/Soong build ecosystems.
+- ⚡ **Algorithmic Efficiency:** Solved **450+ LeetCode problems**, pairing low-level C++ systems programming with strong algorithmic problem-solving.
+- 🤖 **Automation & Developer Velocity:** Passionate about leveraging AI tooling, custom automation, and static analysis (eliminated 2,000+ SonarQube technical debt items) to accelerate workflow efficiency.
+- 🏆 **Recognition:** Awarded **Best Performer of the Product Increment (PI)** at HARMAN International.
 
-- 💬 Ask me about **React, C++, MongoDB**
+---
 
-- 📫 How to reach me **rahulrahuln2001@gmail.com**
+### 🛠️ Tech Stack & Expertise
 
-- 📄 Know about my experiences [Click Here](https://drive.google.com/file/d/1E_MgFZAi40WlL8lrqOfKJ3mypjU-NHhR/view?pli=1)
+**Languages & Systems:**  
+`C++11/17/20` • `Modern C` • `Embedded C++` • `Linux Kernel` • `Android OS/AOSP`
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/rahuln577" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rahuln577" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rahulrahuln2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rahulrahuln2001" height="30" width="40" /></a>
+**Middleware & Embedded Protocols:**  
+`HAL (HIDL/AIDL)` • `Binder IPC` • `CAN/CAN-FD` • `I2C` • `SPI` • `UART` • `SOME/IP`
+
+**Tooling, Build Systems & AI:**  
+`CMake` • `Soong` • `GoogleTest` • `SonarQube` • `Git/GitHub` • `Graphify` • `AI-Driven Refactoring`
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahuln577&show_icons=true&theme=radial&count_private=true" alt="Rahul's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahuln577&layout=compact&theme=radial&hide=html,css" alt="Most Used Languages" width="48%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahuln577&show_icons=true&locale=en&layout=compact" alt="rahuln577" /></p>
+### 🏆 Engineering Highlights
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahuln577&show_icons=true&locale=en" alt="rahuln577" /></p>
+- 🚗 **Production Automotive Deployments:** Built low-level safety and cockpit features across iconic automotive OEMs.
+- ⚙️ **Core Logic Ownership:** Designed thermal-defense sleep cycles and cross-regional tuner configuration layers.
+- 🔄 **Build Infrastructure:** Successfully migrated core repositories from Android Hub to GitHub and transitioned legacy build flows to modern CMake.
+- 🤝 **Cross-Team Impact:** Embedded with the Kernel Engineering team to resolve critical hardware/software path bottlenecks under tight deadlines.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahuln577&" alt="rahuln577" /></p>
+---
 
+📌 *Open to technical discussions around Modern C++, Embedded Real-Time Systems, Android/Linux HAL Architecture, and High-Performance Computing.*
