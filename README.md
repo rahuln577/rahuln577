@@ -24,7 +24,7 @@
 `C++11/17/20` • `Modern C` • `Embedded C++` • `Linux Kernel` • `Android OS/AOSP`
 
 **Middleware & Embedded Protocols:**  
-`HAL (HIDL/AIDL)` • `Binder IPC` • `CAN/CAN-FD` • `I2C` • `SPI` • `UART` • `SOME/IP`
+`HAL (HIDL/AIDL)` • `Binder IPC` • `I2C` • `SPI` • `UART`
 
 **Tooling, Build Systems & AI:**  
 `CMake` • `Soong` • `GoogleTest` • `SonarQube` • `Git/GitHub` • `Graphify` • `AI-Driven Refactoring`
