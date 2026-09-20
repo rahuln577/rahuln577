@@ -29,16 +29,6 @@
 **Tooling, Build Systems & AI:**  
 `CMake` • `Soong` • `GoogleTest` • `SonarQube` • `Git/GitHub` • `Graphify` • `AI-Driven Refactoring`
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahuln577&show_icons=true&theme=radial&count_private=true" alt="Rahul's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahuln577&layout=compact&theme=radial&hide=html,css" alt="Most Used Languages" width="48%" />
-</p>
-
----
 
 ### 🏆 Engineering Highlights
 
